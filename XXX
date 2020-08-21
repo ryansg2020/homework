@@ -1,0 +1,1 @@
+Route::get('xxx', 'XXX\AAAController@bbb');
